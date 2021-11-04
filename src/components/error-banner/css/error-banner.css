@@ -1,0 +1,16 @@
+.error-box {
+    align-items:center;
+    background-color: rgb(237,41,57, 0.3);
+    border:#ed2939 solid 2px;
+    color: white;
+    display:flex;
+    justify-content:center;
+    margin: 55px 8px;
+    padding: 8px;
+}
+
+.error-msg {
+    font-size: medium;
+    padding: 8px;
+    text-align: center;
+}

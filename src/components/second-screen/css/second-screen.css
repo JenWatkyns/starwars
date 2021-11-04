@@ -1,0 +1,21 @@
+.box-within {
+    align-items: normal;
+    display: flex;
+    justify-content: flex-start;
+    padding: 55px 0 0;
+    flex-wrap: wrap;
+}
+
+.drop-down-box,
+.text-crawl-box,
+.character-table-box {
+    display:flex;
+    justify-content: center;
+    width: 33.3%;
+}
+
+.character-table-box {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

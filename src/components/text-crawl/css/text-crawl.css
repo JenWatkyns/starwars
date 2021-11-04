@@ -1,0 +1,18 @@
+.text-crawl {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+.crawl {
+    color: #f9d71c;
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    height: 300px;
+    justify-content: center;
+    line-height: 1.5;
+    max-width: auto;
+    text-align: center;
+    padding: 8px;
+}

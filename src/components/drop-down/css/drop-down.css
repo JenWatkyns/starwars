@@ -1,0 +1,14 @@
+.btn-size {
+    width: 100%;
+}
+
+.drop-down {
+    position: relative;
+    width: 300px;
+    display: inline-block;
+}
+
+.list-items {
+    position: absolute;
+    width: 300px;
+}

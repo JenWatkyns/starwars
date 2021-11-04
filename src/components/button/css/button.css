@@ -1,0 +1,28 @@
+.btn {
+    appearance: none;
+    background-color: rgb(249,215,28,0.9);
+    border:#000 solid 2px;
+    display:block;
+    color:#000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:smaller;
+    padding: 20px;
+    transition: background-color 300ms;
+}
+
+.btn:hover {
+    background-color: rgb(249,215,28,0.8);
+    cursor: pointer;
+}
+
+.ghost {
+    background-color: #000;
+    border-bottom: #f9d71c solid 2px;
+    color:#f9d71c;
+}
+
+.ghost:hover {
+    background-color: rgb(249,215,28,0.9);
+    color: #000;
+    border-bottom: #000 solid 2px;
+}

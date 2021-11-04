@@ -1,0 +1,25 @@
+.character-table-row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.table-item {
+    align-items: center;
+    background-color: #000;
+    border-bottom: #f9d71c solid 2px;
+    color:#f9d71c;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:smaller;
+    height: 30px;
+    padding: 20px; 
+    width: calc(100% / 3 - 12px)   
+}
+
+.height-row {
+    justify-content: center;
+    width: 100%;
+}

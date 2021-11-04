@@ -1,0 +1,11 @@
+.logo-box {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.logo {
+    height: 120px;
+    padding: 12px;
+    width: auto;
+}
