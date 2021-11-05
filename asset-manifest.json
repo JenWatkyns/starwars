@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/starwars/static/css/main.b89594af.chunk.css",
-    "main.js": "/starwars/static/js/main.be2d3801.chunk.js",
-    "main.js.map": "/starwars/static/js/main.be2d3801.chunk.js.map",
-    "runtime-main.js": "/starwars/static/js/runtime-main.64730c41.js",
-    "runtime-main.js.map": "/starwars/static/js/runtime-main.64730c41.js.map",
-    "static/js/2.45d0f364.chunk.js": "/starwars/static/js/2.45d0f364.chunk.js",
-    "static/js/2.45d0f364.chunk.js.map": "/starwars/static/js/2.45d0f364.chunk.js.map",
-    "static/js/3.2471a717.chunk.js": "/starwars/static/js/3.2471a717.chunk.js",
-    "static/js/3.2471a717.chunk.js.map": "/starwars/static/js/3.2471a717.chunk.js.map",
+    "main.css": "/starwars/static/css/main.c70528b7.chunk.css",
+    "main.js": "/starwars/static/js/main.9ce6736d.chunk.js",
+    "main.js.map": "/starwars/static/js/main.9ce6736d.chunk.js.map",
+    "runtime-main.js": "/starwars/static/js/runtime-main.5ad2839e.js",
+    "runtime-main.js.map": "/starwars/static/js/runtime-main.5ad2839e.js.map",
+    "static/js/2.6099c63d.chunk.js": "/starwars/static/js/2.6099c63d.chunk.js",
+    "static/js/2.6099c63d.chunk.js.map": "/starwars/static/js/2.6099c63d.chunk.js.map",
+    "static/js/3.11240545.chunk.js": "/starwars/static/js/3.11240545.chunk.js",
+    "static/js/3.11240545.chunk.js.map": "/starwars/static/js/3.11240545.chunk.js.map",
     "index.html": "/starwars/index.html",
-    "static/css/main.b89594af.chunk.css.map": "/starwars/static/css/main.b89594af.chunk.css.map",
-    "static/js/2.45d0f364.chunk.js.LICENSE.txt": "/starwars/static/js/2.45d0f364.chunk.js.LICENSE.txt",
+    "static/css/main.c70528b7.chunk.css.map": "/starwars/static/css/main.c70528b7.chunk.css.map",
+    "static/js/2.6099c63d.chunk.js.LICENSE.txt": "/starwars/static/js/2.6099c63d.chunk.js.LICENSE.txt",
     "static/media/star-wars-spinner.6d2c8710.svg": "/starwars/static/media/star-wars-spinner.6d2c8710.svg",
     "static/media/star-wars.3bf2a05e.svg": "/starwars/static/media/star-wars.3bf2a05e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64730c41.js",
-    "static/js/2.45d0f364.chunk.js",
-    "static/css/main.b89594af.chunk.css",
-    "static/js/main.be2d3801.chunk.js"
+    "static/js/runtime-main.5ad2839e.js",
+    "static/js/2.6099c63d.chunk.js",
+    "static/css/main.c70528b7.chunk.css",
+    "static/js/main.9ce6736d.chunk.js"
   ]
 }
