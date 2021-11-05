@@ -47,10 +47,18 @@
     font-size:smaller;
     padding: 20px; 
     width: auto;
-    /* width: calc(100% / 3 - 12px)    */
 }
 
 .filter-btns-box {
     display: flex;
     flex-direction: row;
+}
+
+.text{
+    align-items: center;
+    color:#f9d71c;
+    display: flex;
+    font-size:medium;
+    padding: 0 10px;
+    text-decoration: underline;
 }

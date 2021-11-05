@@ -10,12 +10,25 @@
 .text-crawl-box,
 .character-table-box {
     display:flex;
+    flex-direction: column;
     justify-content: center;
-    width: 33.3%;
+    width: 100%;
 }
 
-.character-table-box {
+.character-table-box,
+.drop-down-box {
     align-items: center;
-    display: flex;
-    flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+    .drop-down-box,
+    .text-crawl-box,
+    .character-table-box {
+        flex-direction: row;
+        width: 33.3%;
+    }
+
+    .drop-down-box {
+        align-items: unset;
+    }
 }
